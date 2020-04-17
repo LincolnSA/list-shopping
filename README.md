@@ -1,13 +1,13 @@
-# List Shopping ou (carrinho de compras)
-    - É uma aplicação para fins de estudos com formatação utilizando styled-components
-    - Uma demonstração simples de (todo list)
+# List Shopping or (shopping cart)
+     - It is an application for study purposes with formatting using styled-components
+     - A simple demonstration of (todo list)
 
-## Instalação
-    - Precisa ter o ambiente nodeJs e expo-cli configurado em sua máquina
-    - Clonar o diretório do github
-    - Abrir o cmd e executar npm install ou yarn install, para instalar as dependências
-    - Executar yarn start na pasta do projeto
+## Installation
+     - You need to have the nodeJs and expo-cli environment configured on your machine
+     - Clone the github directory
+     - Open cmd and run npm install or yarn install, to install the dependencies
+     - Run yarn start in the project folder
 
-## Demonstração do app 
-    - Acessar: https://expo.io/@lincoln_silva/list-shopping
-    - Baixar o expo no celular, e scnaer o QRcode
+## Demo of the app
+     - Access: https://expo.io/@lincoln_silva/list-shopping
+     - Download the expo on your cell phone, and scan the QRcode
