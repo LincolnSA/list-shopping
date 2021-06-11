@@ -37,14 +37,16 @@ No link abaixo você encontra o layout do projeto mobile. Lembrando que você pr
 - [Layout Mobile](https://www.figma.com/file/TZFXT5HUIU6Xh1sTEfnVf7/list-shopping)
 
 ## Instalação
-     - Você precisa do nodejs e do expo-cli na sua máquina
-     - Clone o repositório do git
-     - Instale as dependencias com yarn dentro do diretório
-     - E execute yarn start
+
+- Você precisa do nodejs e do expo-cli na sua máquina
+- Clone o repositório do git
+- Instale as dependencias com yarn dentro do diretório
+- E execute yarn start
 
 ## Demo do aplicativo
-     - Acesse: https://expo.io/@lincoln_silva/list-shopping
-     - Instale o expo no seu celular e leia o QRCode
+
+- Acesse: https://expo.io/@lincoln_silva/list-shopping
+- Instale o expo no seu celular e leia o QRCode
 
 ---
 
